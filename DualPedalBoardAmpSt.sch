@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Amplifier_Audio:TDA7293 U1
+L DualPedalBoardAmpSt-rescue:TDA7293-Amplifier_Audio U1
 U 1 1 5D589487
 P 3750 2450
 F 0 "U1" H 4194 2404 50  0000 L CNN
@@ -710,7 +710,7 @@ F 3 "~" H 10850 10950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Audio:TDA7293 U2
+L DualPedalBoardAmpSt-rescue:TDA7293-Amplifier_Audio U2
 U 1 1 5D63CB1F
 P 9000 2350
 F 0 "U2" H 9444 2304 50  0000 L CNN
@@ -1069,7 +1069,7 @@ Wire Wire Line
 Wire Wire Line
 	3500 5600 3500 5550
 $Comp
-L Amplifier_Audio:TDA7293 U3
+L DualPedalBoardAmpSt-rescue:TDA7293-Amplifier_Audio U3
 U 1 1 5FE134F1
 P 3800 5100
 F 0 "U3" H 4244 5054 50  0000 L CNN
@@ -1244,7 +1244,7 @@ Wire Wire Line
 Wire Wire Line
 	8800 5500 8800 5450
 $Comp
-L Amplifier_Audio:TDA7293 U4
+L DualPedalBoardAmpSt-rescue:TDA7293-Amplifier_Audio U4
 U 1 1 602D760F
 P 9100 5000
 F 0 "U4" H 9544 4954 50  0000 L CNN
